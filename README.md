@@ -1,4 +1,4 @@
-# NgxEditor
+# NgxEditor-Custom (forked from original ngx-editor)
 
 <p align="center">
   <a href="https://github.com/Sibiraj-S/ngx-editor">
